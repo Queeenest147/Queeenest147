@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Esther
-- 👀 I’m interested in Data scienxe , data analysis, python programming and AI concepts
-- 🌱 I’m currently learning python and leveraging it as a tool for carrying out operations on data sets.
-- 💞️ I’m looking to collaborate on python most especially in relation to the field of data science
-- 📫 You can reach out to me at esthermatthew2580@gmail.com
-- 😄 Pronouns:She
+- 👀 I’m interested in Data science , data analysis, python programming and Artificial intelligence.
+- 🌱 I’m currently learning python and how it can be leveraged in various data science and analytics projects.
+- 💞️ I’m looking to collaborate on projects that involve data collecting, processing and visualisation.
+- 📫 You can contact me at esthermatthew2580@gmail.com
+- 😄 Pronouns:She/her
 - ⚡ Fun fact about me: I love challenges and i loveee learning new things.
 
 <!---
