@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Esther
+- 👋 Hi, I’m Esther Matthew 
 - 👀 I’m interested in Data science , data analysis, python programming and Artificial intelligence.
-- 🌱 I’m currently learning python and how it can be leveraged in various data science and analytics projects.
+- 🌱 I’m currently learning python and how it can be leveraged in various data science and analytics operations.
 - 💞️ I’m looking to collaborate on projects that involve data collecting, processing and visualisation.
 - 📫 You can contact me at esthermatthew2580@gmail.com
 - 😄 Pronouns:She/her
